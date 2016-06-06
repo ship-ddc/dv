@@ -70,13 +70,13 @@
 /* orange */
 #pixie {
   z-index:0;
-  background:-o-linear-gradient(top, #FF9900, #FF9933);
-  background:-ms-linear-gradient(top, #FF9900, #FF9933);
-  background:-moz-linear-gradient(top, #FF9900, #FF9933);
-  background:-webkit-linear-gradient(top, #FF9900, #FF9933);
-  background:linear-gradient(top, #FF9900, #FF9933);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#FF9900', EndColorStr='#FF9933');
-  -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#FF9900', EndColorStr='#FF9933')";
+  background:-o-linear-gradient(top, #FF9900, #F9C76F);
+  background:-ms-linear-gradient(top, #FF9900, #F9C76F);
+  background:-moz-linear-gradient(top, #FF9900, #F9C76F);
+  background:-webkit-linear-gradient(top, #FF9900, #F9C76F);
+  background:linear-gradient(top, #FF9900, #F9C76F);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#FF9900', EndColorStr='#F9C76F');
+  -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#FF9900', EndColorStr='#F9C76F')";
 }
 
 /*Cloud CSS*/
